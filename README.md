@@ -91,7 +91,7 @@
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=github,figma,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=github,figma,vscode,postman,n8n" />
 </td>
 </tr>
 </table>
